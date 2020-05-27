@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Lápis Faber Castell",
+      "price": 2.25
+    },
+    {
+      "id": 3,
+      "name": "Borracha Pelicano",
+      "price": 0.5
+    },
+    {
+      "id": 4,
+      "name": "Compasso Hering",
+      "price": "15.60"
+    },
+    {
+      "name": "Esquadro Pelicano",
+      "price": "4.50",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+Rascunho do projeto Angular CRUD
+
+>>Backend
+node_modules
+db.json
+package-lock.json
+package.json
+
+>>Frontend
+>node_modules
+>src
+
+ >app
+  >component/product/product-read
+    >product-read.component.css
+    >product-read.component.html
+    >product-read.component.ts
+
+  >components
+
+   >product
+    >product-create
+     >product-create.component.css
+     >product-create.component.html
+     >product-create.component.ts
+
+    >product-delete
+     >product-delete.component.css
+     >product-delete.component.html
+     >product-delete.component.ts
+
+    >product-update
+     >product-update.component.css
+     >product-update.component.html
+     >product-update.component.ts
+
+    product.model.ts
+    product.service.ts
+
+  >template
+   >footer
+     >footer.component.css
+     >footer.component.html
+     >footer.component.ts
+
+   >header
+     >header.component.css
+     >header.component.html
+     >header.component.ts
+   >nav
+     >nav.component.css
+     >nav.component.html
+     >nav.component.ts
+
+  >views
+   >home
+    >home.component.css
+    >home.component.html
+    >home.component.ts
+
+   >product-crud
+    >product-crud.component.css
+    >product-crud.component.html
+    >product-crud.component.ts
+
+  >app-routing.module.ts
+  >app.components.html
+  >app.components.ts
+  >app.module.ts
+
+ >assets
+  >img
+   logo.png
+  .gitkeep
+
+ >environments
+  environment.prod.ts
+  environment.ts
+
+ favicon.ico
+ index.html
+ mais.ts
+ polyfill.ts
+ styles.css
+
+.gitignore
+angular.json
+browserslist
+package-lock.json
+package.json
+README.md
+tsconfig.app.json
+tsconfig.json
+
+
+
